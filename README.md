@@ -8,3 +8,14 @@
 * [Internetmuseum](https://internetmuseum.se/utstallningar/ai-historia/) - AI-historia – artificiell intelligens då och nu. Människan har under hela sin historia fascinerats av intelligens som är konstgjord. Från mytologiska sagoväsen ristade på stentavlor till dagens avancerade AI-teknik som kan hjälpa oss med allt från programmering till recept på pannkakor.
 * [Mittuniversitetet](https://www.miun.se/mot-mittuniversitetet/samverkan/livslangt-larande/barnensuniversitet/digitalt-laromaterial/ai/) - AI och etik ‑ Lektioner för mellanstadiet. AI står för artificiell intelligens, det vill säga konstgjord intelligens. AI kommer att vara en viktig del av vår framtid. För att förstå vad AI är behöver man matematik och teknik, men även etik. Vi har tagit fram några lektioner anpassade för årskurs 4–6 med syftet att lära sig mer om AI. Lektionerna är fristående, men de är uppbyggda som en serie som hör ihop.
 * [Uppdrag AI](https://urplay.se/serie/238890-uppdrag-ai) - AI är en av de mest omtalade teknikerna just nu. Programledaren Torbjörn Averås Skorup utforskar hur tekniken fungerar och hur den påverkar vårt samhälle. Genom att själv testa teknikens möjligheter och begränsningar, samt genom samtal med experter, får vi följa AI:s utveckling från dess ursprung till hur den kan forma vår framtid.
+
+<!--
+https://digitalalektioner.se/lektionspaket/teknikhistoria-om-ai/
+https://urplay.se/program/236529-ai-i-skolan
+https://code.org/ai
+https://github.com/Itangalo/AI-Education
+https://machinelearningforkids.co.uk/?lang=sv-se
+
+https://github.com/owainlewis/awesome-artificial-intelligence?tab=readme-ov-file#readme
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme
+-->
