@@ -2,6 +2,7 @@
 
 > En lista med resurser på svenska, för att lära barn artificiell intelligens :sparkles: :boy: :girl: :sweden:
 
+* [AILIT](https://ailit.fi/) - Målet med projektet AILIT är att utforska den AI-litteracitet eleverna inom den grundläggande utbildningen och andra stadiet har, alltså färdigheten att använda artificiell intelligens och förmågan att förstå hur tjänsterna är konstruerade. Utgående från resultaten skapar projektteamet konkreta undervisningsmodeller för att introducera och inkludera AI-litteracitet.
 * [Digitala lektioner](https://digitalalektioner.se/lektioner-i-ai/) - Lektioner i AI för alla åldrar. Här hittar du lektioner för grundskolan som på olika sätt närmar sig AI och frågor som handlar om AI.
 * [Elements of AI](https://www.elementsofai.se) - Välkommen att lära dig grunderna i artificiell intelligens! Elements of AI är en kostnadsfri onlinekurs som beskriver grunderna i AI. Kursen riktar sig till alla som vill veta vad AI är, vad man kan göra (eller inte göra) med AI och hur AI påverkar våra liv. Du behöver inte vara insatt i matematik eller programmering. Utbildningen kombinerar teori med praktiska exempel och kan göras i egen takt. Det tar ca 15-30 timmar att komma i mål.
 * [Internetkunskap](https://internetkunskap.se/grundkurs-i-ai/) - AI – artificiell intelligens. Vad är AI och hur används tekniken på olika ställen i samhället? Hur lär sig en AI och kan den tänka som en människa? Vad finns det för möjligheter och risker med datorer som blir allt mer självständiga? Här får du lära dig grunderna om AI – artificiell intelligens.
